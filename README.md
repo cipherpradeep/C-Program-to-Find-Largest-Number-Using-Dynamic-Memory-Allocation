@@ -1,1 +1,0 @@
-# C-Program-to-Find-Largest-Number-Using-Dynamic-Memory-Allocation
